@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import TinderCard from "react-tinder-card";
-import CatCard from "./components/CatCard.js";
-import Summary from "./components/Summary.js";
+import CatCard from "./components/CatCard";
+import Summary from "./components/Summary";
 import "./App.css";
 
 function App() {
