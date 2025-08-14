@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/paw-preferences/static/css/main.be5381a2.css",
+    "main.js": "/paw-preferences/static/js/main.e17ddfe6.js",
+    "static/js/453.2649aa28.chunk.js": "/paw-preferences/static/js/453.2649aa28.chunk.js",
+    "static/media/react-spring_web.production.min.cjs": "/paw-preferences/static/media/react-spring_web.production.min.3e2dca1352bf2de89b5e.cjs",
+    "index.html": "/paw-preferences/index.html",
+    "main.be5381a2.css.map": "/paw-preferences/static/css/main.be5381a2.css.map",
+    "main.e17ddfe6.js.map": "/paw-preferences/static/js/main.e17ddfe6.js.map",
+    "453.2649aa28.chunk.js.map": "/paw-preferences/static/js/453.2649aa28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be5381a2.css",
+    "static/js/main.e17ddfe6.js"
+  ]
+}
